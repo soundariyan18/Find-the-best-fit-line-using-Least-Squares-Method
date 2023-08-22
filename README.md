@@ -64,6 +64,7 @@ print("Graph")
 plt.scatter(x,y)
 plt.plot(x,y_pred,color="red")
 plt.show()
+
 ```
 
 ## Output:
