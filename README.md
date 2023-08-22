@@ -66,7 +66,7 @@ plt.plot(x,y_pred,color="red")
 plt.show()
 
 ## Output:
-![model]("C:\Users\SEC\Downloads\ml.png")
+![model]("https://github.com/soundariyan18/Find-the-best-fit-line-using-Least-Squares-Method/blob/main/ml.png.png")
 
 
 
