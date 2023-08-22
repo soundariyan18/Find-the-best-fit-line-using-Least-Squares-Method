@@ -66,7 +66,7 @@ plt.plot(x,y_pred,color="red")
 plt.show()
 
 ## Output:
-![best fit line]("C:\Users\SEC\Downloads\ml.png.png")
+![best fit line]("C:\Users\SEC\Downloads\ml.png")
 
 
 ## Result:
