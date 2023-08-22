@@ -66,7 +66,7 @@ plt.plot(x,y_pred,color="red")
 plt.show()
 
 ## Output:
-![model("C:\Users\SEC\Downloads\ml.png")
+![model]("C:\Users\SEC\Downloads\ml.png")
 
 
 
