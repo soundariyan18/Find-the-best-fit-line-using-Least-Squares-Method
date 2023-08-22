@@ -66,7 +66,7 @@ plt.show()
 ```
 
 ## Output:
-<img src="https://github.com/soundariyan18/Find-the-best-fit-line-using-Least-Squares-Method/blob/main/ml.png.png">
+<img src="https://github.com/soundariyan18/Find-the-best-fit-line-using-Least-Squares-Method/blob/main/ML.png.png">
 
 
 
